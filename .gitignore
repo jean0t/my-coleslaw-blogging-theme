@@ -13,3 +13,5 @@ cabal-dev
 hakyll
 dist/
 sandbox/
+
+deploy/
